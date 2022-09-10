@@ -1,6 +1,14 @@
+body {
+    padding: 50px 0;
+    zoom: 0;
+}
+
+
 p {
     text-align: justify;
 }
+
+
 .row-header {
     margin: 0 auto;
     padding: 0 auto;
@@ -31,4 +39,8 @@ p {
     font-size: 80%;
     margin: 0;
     color: #0f0f0f;
+}
+
+.navbar-dark {
+    background-color: #512da8;
 }
