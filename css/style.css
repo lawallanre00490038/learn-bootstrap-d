@@ -44,3 +44,8 @@ p {
 .navbar-dark {
     background-color: #512da8;
 }
+
+.img-size {
+    width: 100px;
+    height: 100px;
+}
