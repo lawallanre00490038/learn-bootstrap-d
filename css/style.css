@@ -8,6 +8,9 @@ p {
     text-align: justify;
 }
 
+a[href="#reserve-table"] {
+    background-color: orange;
+}
 
 .row-header {
     margin: 0 auto;
@@ -41,11 +44,19 @@ p {
     color: #0f0f0f;
 }
 
-.navbar-dark {
-    background-color: #512da8;
-}
-
 .img-size {
     width: 100px;
     height: 100px;
 }
+
+.navbar-dark {
+    background-color: #512da8;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
