@@ -14,10 +14,11 @@
     "lite-server": "^2.6.1"
   },
   "dependencies": {
+    "@popperjs/core": "^2.11.6",
     "bootstrap": "^4.6.2",
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.6.1",
-    "popper.js": "^1.12.9"
+    "popper.js": "^1.14.7"
   }
 }
